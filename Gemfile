@@ -6,7 +6,7 @@ ruby '2.6.3'
 gem 'pg', '~> 0.20.0'
 
 # Sinatra driver
-gem 'sinatra', '~> 1.0'
+gem 'sinatra', '~> 2.2'
 gem 'sinatra-contrib'
 
 gem 'activesupport', '~>4.2'
